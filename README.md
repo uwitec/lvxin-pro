@@ -12,7 +12,7 @@
 #http://lvxin.farsunset.com
 
 ###客户端功能演示
-#####目前只有Android版本的客户端，主要具有单人聊天，群组聊天，联系人管理，组织结构，朋友圈，摇一摇 以及漂流瓶等经典功能。
+目前只有Android版本的客户端，主要具有单人聊天，群组聊天，联系人管理，组织结构，朋友圈，摇一摇 以及漂流瓶等经典功能。
 #####可用的帐号 10002 到 10031  密码统一都是000000
 
 #http://staticres.oss-cn-hangzhou.aliyuncs.com/lvxin-pro.apk
