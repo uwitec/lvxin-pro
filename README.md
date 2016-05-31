@@ -7,25 +7,23 @@
     
 
 
-##服务端功能
+###服务端功能
 服务端具有用户管理，广播发送，组织部门管理等一些基本功能。演示地址如下：
 #http://lvxin.farsunset.com
 
-
-##客户端功能
+###客户端功能
 1.目前只有Android版本的客户端，主要具有单人聊天，群组聊天，联系人管理，组织结构，朋友圈，摇一摇 以及漂流瓶等经典功能。
-     
-##演示客户端apk下载
+  
+###演示客户端apk下载
 #http://staticres.oss-cn-hangzhou.aliyuncs.com/lvxin-pro.apk
  
  
-
 ##以下是有图有真相
 
-###服务端管理界面
+####服务端管理界面
 ![image](http://staticres.oss-cn-hangzhou.aliyuncs.com/lvxin-pro/lvxin_console.png)
 
-###客户端界面
+####客户端界面
  
 ![image](http://staticres.oss-cn-hangzhou.aliyuncs.com/lvxin-pro/lvxin_login.png)
 ![image](http://staticres.oss-cn-hangzhou.aliyuncs.com/lvxin-pro/lvxin_chat.png)
